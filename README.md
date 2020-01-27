@@ -1,6 +1,6 @@
-# JAVA_PCAP_PARSER
+# PCAP PARSER
 
-Java_PCAP_Parser is a pcap parser using standards java libraries.
+PCAP Parser is a pcap parser using standards java libraries.
 
 ## Prerequisites
 
